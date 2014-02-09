@@ -1,0 +1,4 @@
+name: sample_02
+description: A sample Foundation + Server app
+dependencies:
+    http_server: any
